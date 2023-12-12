@@ -1,0 +1,26 @@
+@font-face {
+  font-family: '<link>filmeweb/src/styles/fontes/camprock.ttf</link>';
+  src: url('filmeweb/src/styles/fontes/camprock.ttf') format('truetype');
+  /* Adicione outros formatos de fonte, como woff, woff2, etc., conforme necessário */
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+  text-align: left;
+  font-family: '<link>filmeweb/src/styles/fontes/camprock.ttf</link>';
+
+}
+
+a {
+  color: #b190ff;
+}
+
+p {
+  margin-left: 10vh;
+  margin-right: 10vh;
+}
+.volt{
+  color: rgb(0, 0, 0);
+
+}
